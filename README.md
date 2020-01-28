@@ -1,4 +1,4 @@
-# GoStack Seção 1
+# GoStack Fase 2
 ## Conceitos Node.js, HTTP Requests e Middlewares
 
 Os principais conceitos básicos sobre os temas citados acima foram abordados nesta seção.
